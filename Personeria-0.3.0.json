@@ -1,0 +1,129 @@
+{
+    "Cabecera": {
+        "Nombre": "FEL-CATALOGO-TIPOS-PERSONERIA",
+        "Ultima Actualizacion": "29/12/2021 08:00:00"
+    },
+    "Contenido": [
+	{
+		  "codigo": "710",
+		  "tipo-peroneria":  "COOPERATIVAS",
+		  "tipoDte":["RDON","FACT","FCAM"]
+		  
+		},
+		{
+		  "codigo": "719",
+		  "tipo-peroneria":  "ASOCIACIÓN CIVIL",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "720",
+		  "tipo-peroneria":  "ASOCIACIÓN COMUNITARIA Y DE DESARROLLO",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "721",
+		  "tipo-peroneria":  "OTRO TIPO DE ASOCIACIÓN",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "723",
+		  "tipo-peroneria":  "ASOCIACIÓN DE TRANSPORTE",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "724",
+		  "tipo-peroneria":  "ASOCIACIÓN DE VECINOS",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "725",
+		  "tipo-peroneria":  "ASOCIACIÓN EDUCATIVA, CULTURAL O DEPORTIVA",
+		 "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "726",
+		  "tipo-peroneria":  "ASOCIACIÓN EMPRESARIAL, AGRÍCOLA, ARTESANAL, INDUSTRIAL Y OTRAS",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "727",
+		  "tipo-peroneria":  "ASOCIACIÓN MÉDICA Y DE SALUD",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "728",
+		  "tipo-peroneria":  "ASOCIACIÓN SOLIDARISTA DE EMPLEADOS",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "729",
+		  "tipo-peroneria":  "CÁMARA",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "730",
+		  "tipo-peroneria":  "GREMIAL",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "731",
+		  "tipo-peroneria":  "COMITÉ ",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "732",
+		  "tipo-peroneria":  "SINDICATO",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "733",
+		  "tipo-peroneria":  "ORGANIZACIÓN NO GUBERNAMENTAL",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "734",
+		  "tipo-peroneria":  "PARTIDO POLÍTICO",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "735",
+		  "tipo-peroneria":  "IGLESIA CATÓLICA",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "736",
+		  "tipo-peroneria":  "OTRA ENTIDAD RELIGIOSA",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "737",
+		  "tipo-peroneria":  "COLEGIO DE PROFESIONALES ",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "739",
+		  "tipo-peroneria":  "CENTRO EDUCATIVO POR COOPERATIVA",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "740",
+		  "tipo-peroneria":  "UNIVERSIDADES",
+		  "tipoDte":["RDON","FACT","FCAM"]
+		},
+		{
+		  "codigo": "2635",
+		  "tipo-peroneria":  "FUNDACIONES",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "2744",
+		  "tipo-peroneria":  "UNIVERSIDAD PRIVADA",
+		  "tipoDte":["RDON"]
+		},
+		{
+		  "codigo": "718",
+		  "tipo-peroneria":  "DIPLOMÁTICO, ORGANISMO INTERNACIONAL O MISIÓN DIPLOMÁTICA",
+		  "tipoDte":["RDON"]
+		}
+	]
+}
