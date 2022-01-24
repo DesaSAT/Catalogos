@@ -1,0 +1,58 @@
+{
+   "Cabecera":{
+      "Nombre":"MiniRTU todos - CDS",
+      "Ultima Actualizacion":"24/01/2022 06:05:41"
+   },
+   "minirtu":[
+      {
+         "Nit":"19",
+         "afiliacionIVA":"PEQ",
+         "afiliacionesFuturas":[
+            
+         ],
+         "ecai":false,
+         "establecimientos":[
+            {
+               "apto":null,
+               "calleAvenida":"PRUEBAS",
+               "clasificacion":"AFECTO",
+               "codigoClasificacion":1696,
+               "codigoTipoE":1698,
+               "colonia":null,
+               "departamento":"QUETZALTENANGO",
+               "estado":"A",
+               "letra":null,
+               "municipio":"SanMartin Sacatepequez",
+               "nombre":"PRUEBAS",
+               "numero":2,
+               "numeroCasa":null,
+               "tipo":"AFECTO",
+               "tipoE":"SERVICIO",
+               "zona":null
+            }
+         ],
+         "estado":"ACTIVO",
+         "exenIVA":false,
+         "fechaMiniRTU":"2022-01-22T19:04:46.373658-06:00",
+         "fechaSincronizacionProgramada":null,
+         "frases":[
+            {
+               "escenario":1,
+               "fechaResolucion":null,
+               "numeroResolucion":null,
+               "tipo":3
+            }
+         ],
+         "marcas":[
+            {
+               "codigo":1,
+               "descripcion":null,
+               "fecha":null,
+               "valor":"N"
+            }
+         ],
+         "nombre":"PRUEBAS",
+         "tipoPersoneria":0
+      }
+   ]
+}
