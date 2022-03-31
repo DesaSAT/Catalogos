@@ -398,7 +398,7 @@
         ]
       },
 
-      {
+       {
         "codigoTipoFrase": 9,
         "nombre": "Frases Especiales ",
         "descripcion": "Cuando el emisor efectúe operaciones especificas como por ejemplo el apoyo social al Gas",
@@ -410,6 +410,14 @@
 			"contieneResolucion": false,
 			"contieneFechaResolucion": false,
             "textoAColocar": "Esta factura incluye apoyo social temporal al precio del gas licuado envasado en cilindros portátiles ( Dec. 15-2021)"
+          },
+          {
+            "codigoEscenario": 2,
+            "escenario": "Decreto 20-2021 Las empresas importadoras de derivados de petroléo al vender Diésel o Gasolina Regular deberán de incluir dicha frase.",
+            "esRegimenElectronico": false,
+			      "contieneResolucion": false,
+			      "contieneFechaResolucion": false,
+            "textoAColocar": "Esta factura incluye apoyo social temporal Decreto 20-2022 por un valor de GTQ "
           }
         ]
       }
